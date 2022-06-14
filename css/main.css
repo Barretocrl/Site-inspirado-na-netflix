@@ -1,0 +1,67 @@
+h1 {
+  color: red;
+}
+
+.cor1 {
+  background-color: brown;
+  color: black;
+}
+
+body {
+  background-color: black;
+}
+
+.texto1 {
+  font-size: 24px;
+  color: black;
+  padding-right: 2px;
+  padding-left: 2px;
+  margin-bottom: 4px;
+}
+
+.g {
+  font-size: 24px;
+  color: black;
+  text-align: center;
+  margin-bottom: 4px;
+}
+
+.perfilfoto {
+  width: 60px;
+  height: 60px;
+  border-radius: 100%;
+  margin: 4px;
+  margin-right: 20px;
+}
+
+.cor2 {
+  background-color: rgb(158, 42, 42);
+}
+
+.botao {
+
+  border-radius: 5px;
+ 
+}
+
+.subtexto {
+  color: black;
+  text-align: left;
+  margin: 4px;
+  font-size: 25px;
+}
+
+subtexto:hover {
+  color: white;
+}
+
+.caixa {
+  opacity : 0.9;
+  padding-left: 1px;
+  padding: 4px;
+}
+
+.escurim {
+  opacity: 0.2;
+  background-color: black;
+}
